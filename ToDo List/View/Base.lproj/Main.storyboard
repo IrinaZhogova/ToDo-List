@@ -107,7 +107,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <segue destination="KNX-d2-VTh" kind="show" identifier="ToDoList" id="AtZ-KB-cbe"/>
+                        <segue destination="KNX-d2-VTh" kind="show" identifier="goToItems" id="AtZ-KB-cbe"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DpG-O5-map" userLabel="First Responder" sceneMemberID="firstResponder"/>
